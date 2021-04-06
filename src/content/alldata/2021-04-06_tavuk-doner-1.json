@@ -1,0 +1,15 @@
+{
+  "price": 8,
+  "name": "Tavuk Döner",
+  "currency": "$",
+  "title": "tavuk-doner",
+  "related_products": [
+    "cevizli-baklava"
+  ],
+  "image": "src/content/images/chicken-food.png",
+  "categories": [
+    "all"
+  ],
+  "description": "..sad.asDFKdsalşkg dsofj asdfmasdfdasf adsfadsf..sad.asDFKdsalşkg dsofj asdfmasdfdasf adsfadsf..sad.asDFKdsalşkg dsofj asdfmasdfdasf adsfadsf..sad.asDFKdsalşkg dsofj asdfmasdfdasf adsfadsf..sad.asDFKdsalşkg dsofj asdfmasdfdasf adsfadsf..sad.asDFKdsalşkg dsofj asdfmasdfdasf adsfadsf",
+  "rating": 5
+}
