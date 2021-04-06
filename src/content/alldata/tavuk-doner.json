@@ -7,7 +7,7 @@
     "cevizli-baklava",
     "uskumru-tava"
   ],
-  "image": "content/images/chicken-food.png",
+  "image": "src/content/images/chicken-food.png",
   "categories": [
     "fast-foot",
     "all"
